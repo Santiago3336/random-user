@@ -1,3 +1,50 @@
+# Proyecto RandomUser
+
+## 📌 Sobre mí  
+¡Hola! Soy Joel Leon, un desarrollador de software especializado en desarrollo web y backend. Me enfoco en crear aplicaciones eficientes con código limpio y bien estructurado, priorizando siempre la comunicación efectiva y la organización.
+
+## 🚀 Descripción del Proyecto  
+RandomUser es una aplicación diseñada para gestionar y visualizar usuarios de manera dinámica. Utiliza un backend en **Node.js** y un frontend en **React.js**, permitiendo obtener, filtrar y administrar usuarios con una experiencia fluida e intuitiva.
+
+## ✨ Funcionalidades Principales  
+- 📌 **Visualización de usuarios** con una interfaz atractiva.  
+- 🔍 **Búsqueda y filtrado avanzado** para encontrar usuarios rápidamente.  
+- 🔄 **Actualización en tiempo real** con cambios reflejados instantáneamente en la interfaz.  
+- 🌐 **Consumo de APIs externas** para la obtención de usuarios aleatorios.  
+
+## 🛠️ Tecnologías  
+- **Frontend:** React.js, CSS  
+- **Backend:** Node.js, Express  
+- **Gestión de estado:** Context API  
+- **Control de versiones:** Git
+
+¡Espero que disfrutes explorando este proyecto! 😊  
+
+## ⚠️ Indicaciones a Valorar
+
+Para ejecutar correctamente la aplicación, sigue estos pasos:
+
+1. **Clonar el repositorio**  
+   git clone <URL_DEL_REPOSITORIO>
+   cd Proyecto_RandomUser
+
+2. **Instalar dependencias**
+    npm install
+
+3. **Iniciar el servidor backend**
+    node server.js
+
+4. Iniciar el Frontend
+    npm start
+
+5. **Acceder a la Aplicacion**
+    Abre tu navegador y dirígete a http://localhost:3000
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
