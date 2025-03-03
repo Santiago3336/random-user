@@ -4,8 +4,6 @@ import UserList from './UserList';
 import UserModal from './UserModal';
 import "../App.css";
 
-const apiURL = "http://localhost:5000/api/users";
-
 export const GetUsers = () => {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
