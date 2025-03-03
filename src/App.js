@@ -1,5 +1,5 @@
 import './App.css';
-import GetUsers from './components/getUsers';
+import GetUsers from './components/GetUsers';
 
 
 function App() {
